@@ -1,1 +1,1 @@
-# miniproject_3-face-recognition
+# miniproject_3-face_recognition
