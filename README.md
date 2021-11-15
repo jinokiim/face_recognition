@@ -14,19 +14,19 @@ Python & OpenCV
 ## 내용
 
 face_recognition  
-* Cascades(검출을 위한 분류기생성을 위한 파일)  
+* [Cascades](Cascades)(검출을 위한 분류기생성을 위한 파일)  
    * haarcascade_frontalface_default.xml    
    * haarcascade_mcs_mouth.xml    
    * haarcascade_mcs_nose.xml    
    * etc    
   
-* FaceDetection    
+* [FaceDetection](FaceDetection)    
 
    * 01_facedetection.py : 얼굴 인식    
    * 02_nosedetection.py : 코 인식  
    * 03_noseandmouthdetection.py : 마스크 작용 여부를 위한 얼굴, 코, 입 인식    
      
-* FacialRecognition  
+* [FacialRecognition](FacialRecognition)  
    * 01_check_cam.py  : 캠 확인  
    * 02_face_detection.py : 얼굴 인식 확인    
    * 03_face_makeID.py : 얼굴에 맞는 ID 생성    
